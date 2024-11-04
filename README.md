@@ -1,4 +1,4 @@
 # react_calculator
-This is my first actual react project.
+My first actual react project!
 
-its a Calculator I built using React JS
+Calculator built in ReactJS
